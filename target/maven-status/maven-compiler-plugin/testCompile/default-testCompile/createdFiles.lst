@@ -1,0 +1,7 @@
+com\pwc\assignment\service\doctor\CancelAppointmentServiceTest.class
+com\pwc\assignment\AssignmentApplicationTests.class
+com\pwc\assignment\service\patient\AvailableDoctorsServiceTest.class
+com\pwc\assignment\service\doctor\DoctorRegistrationServiceTest.class
+com\pwc\assignment\service\doctor\PatientsListServiceTest.class
+com\pwc\assignment\service\patient\AppointmentRegistrationServiceTest.class
+com\pwc\assignment\service\patient\PatientRegistrationServiceTest.class

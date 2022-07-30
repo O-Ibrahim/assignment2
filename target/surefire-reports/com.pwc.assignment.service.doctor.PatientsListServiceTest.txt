@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pwc.assignment.service.doctor.PatientsListServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in com.pwc.assignment.service.doctor.PatientsListServiceTest
